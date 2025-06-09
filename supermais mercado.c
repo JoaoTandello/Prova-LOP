@@ -21,7 +21,7 @@ int main() {
     int op;
 
     do {
-        printf("<<< Supermercado SuperMais >>>\n");
+        printf("---- Supermercado SuperMais ----\n");
         printf("1- Cadastrar produto\n");
         printf("2- Visualizar produto\n");
         printf("3- Realizar compra\n");
